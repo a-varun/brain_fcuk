@@ -12,4 +12,4 @@ characters required.
 
 Added a html file, after rewriting the code to javascript.
 
-Visit a-varun.github.io/brain_fcuk to see it in action
+Visit http://a-varun.github.io/brain_fcuk to see it in action
