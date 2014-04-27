@@ -9,3 +9,7 @@ I also check for memory leaks while running the program.
 Also, in the text to brainf**k translater, I first check the characters 
 present in the string and I dynnamically initialize the memory just for the
 characters required.
+
+Added a html file, after rewriting the code to javascript.
+
+Visit a-varun.github.io/brain_fcuk to see it in action
